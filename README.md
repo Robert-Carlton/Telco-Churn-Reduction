@@ -32,6 +32,8 @@ The predictive framework used here can be applied to any industry where retainin
   * The best-performing model provided actionable insights into the top drivers of churn.
   * These drivers can inform targeted marketing and service improvements.
 
-:heavy_check_mark:Outcome: Enables telecom operators to intervene before customers leave, improving retention rates and profitability.
+:heavy_check_mark:Outcomes 
+  * Enables telecom operators to intervene before customers leave, improving retention rates and profitability.
+  * I implemented a model similar to this at one of the largest US telcos for their long distance business saving more than $34M annually in lost customer revenue. The model predicted when customers would churn out, and tested various promotions to keep them as a customer (tied to their lifetime value (LTV)). At the time, per-minute revenue was 1-4 cents, so the savings was significant.
 
 
